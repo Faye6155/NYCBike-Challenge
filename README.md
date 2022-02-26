@@ -22,4 +22,4 @@ Result
 
 Summary
 - two more analysis can be made: comparing the data for different months/seasons to find the trend across the year. Weather data can be added to the database for the deepler analysis about the weather influences the riding time.
--
+
