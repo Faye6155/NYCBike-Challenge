@@ -1,5 +1,7 @@
 # NYCBike-Challenge
 
+Here is the link for the Tableau Public
+https://public.tableau.com/views/NYCCitiBikeAnalysischallenge_16465094716620/NYCCitiBikeAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Purpose
 - This project is to analyze the bikeshare data from CitiBike in New York City. 
